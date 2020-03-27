@@ -88,7 +88,7 @@ Déploiement des modifications sur le dépôt GIT (dans la branche devel)
 
 
 ```console
-olivier@mullier:~$ git push
+olivier@mullier:~$ git push --set-upstream origin devel
 ```
 
 
