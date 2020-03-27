@@ -1,6 +1,18 @@
 #hello_world 
 
 Ceci est un exemple de dépôt GIT.
+On considère que la création du dépôt a déjà été réalisé, le dépôt contient donc la branche *master*.
+Les instructions qui suivent permettent l'ajout d'un fichier **README.md**, la création d'une branche *devel*
+sur laquelle le fichier **hello_world.c** est ajouté.
+Afin de figer le developpement actuel, la branche *devel* est fusionnée avec la branche *master*.
+
+La suite logique (non présente ici) est de reprendre la branche devel afin de continuer le developpement du projet.
+La branche *master* contient quant à elle la dernière version stable du projet.
+Il s'agit ici d'appliquer un workflow git basique.
+Un workflow git est une méthodologie d'utilisation de GIT dans le développement de projet.
+Plus de détails ici :
+idée générale et exemples : [https://delicious-insights.com/fr/articles/git-workflows-generality/](https://delicious-insights.com/fr/articles/git-workflows-generality/) 
+un workflow git classique : [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/) 
 
 ##commandes saisies
 
